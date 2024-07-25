@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    background-color: green;
+}
+
+.chrono-container {
+    text-align: center;
+    background-color: floralwhite;
+    border-radius: 8px;
+    padding: 8px 5px;
+}
+
+#display {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+#start{
+    letter-spacing: 2px;
+}
+#stop{
+    letter-spacing: 2px;
+}
+#reset{
+    letter-spacing: 2px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    background-color: gray;
+}
