@@ -14,3 +14,7 @@
 *Télécharger ou cloner le projet : git clone https://github.com/votre-utilisateur/nom-du-repo.git
 *Ouvrir index.html dans un navigateur pour voir le chronomètre en action.
 *Interagir avec les boutons pour démarrer, arrêter ou réinitialiser le chronomètre.
+
+
+NB: JE TIENS A PRECISER QU'IL EST LA PREMIERE PHASE D'UN PROJET BEAUCOUP PLUS COMPLEXE, EN D'AUTRES TERMES, CE CHRONOMETRE SERVIRA DE BASE POUR LE VRAI PROJET (JEU) EN QUESTION.
+So, stay tuned.....
