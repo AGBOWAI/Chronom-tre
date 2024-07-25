@@ -37,4 +37,4 @@ function reset() {
 
 document.getElementById('start').addEventListener('click', start); // ce sont des ecouteurs évenementiels(la fonction start se déclenche lorsqu'un click est fait sur le bouton"Start")
 document.getElementById('stop').addEventListener('click', stop); // ce sont des ecouteurs évenementiels(la fonction stop se déclenche lorsqu'un click est fait sur le bouton"Stop")
-document.getElementById('reset').addEventListener('click', reset); // ce sont des ecouteurs évenementiels(la fonction reset se déclenche lorsqu'un click est fait sur le bouton"rReset")
+document.getElementById('reset').addEventListener('click', reset) ; // ce sont des ecouteurs évenementiels(la fonction reset se déclenche lorsqu'un click est fait sur le bouton"Reset")
